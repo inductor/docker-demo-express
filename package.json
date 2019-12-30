@@ -1,0 +1,23 @@
+{
+  "name": "docker-demo-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node app/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inductor/docker-demo-express.git"
+  },
+  "author": "inductor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inductor/docker-demo-express/issues"
+  },
+  "homepage": "https://github.com/inductor/docker-demo-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
